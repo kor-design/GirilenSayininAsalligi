@@ -9,8 +9,37 @@ namespace AsalKontrol
     class Program
     {
         static void Main(string[] args)
-        {
+        {//girilen sayının asal olup olmadığını kontrol eden uygulama
+            BASADON:
+            Console.WriteLine("Asallık testi için bir sayı giriniz");
+            int sayi = int.Parse(Console.ReadLine());
 
+                if (IsPrimeNumber(sayi))
+                {
+                    Console.WriteLine("this is prime number");
+
+                }
+                else
+                {
+                    Console.WriteLine("this is not prime number");
+
+                }
+            goto BASADON;
+                Console.ReadLine();
+            
+        }
+        private static bool IsPrimeNumber(int number)
+        {
+            bool result = true;
+            for (int i = 2; i < number-1; i++)
+            {
+                if (number%i==0)
+                {
+                    result = false;
+                    i = number; //asal olmadıgı anlasıldıgı anda donguden cıkması için
+                }   
+            }
+            return result;
         }
     }
 }

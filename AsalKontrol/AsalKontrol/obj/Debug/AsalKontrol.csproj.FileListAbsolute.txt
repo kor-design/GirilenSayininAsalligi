@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\GirilenSayininAsalligi\AsalKontrol\AsalKontrol\bin\Debug\AsalKontrol.exe.config
+C:\Users\Windows10\Documents\GitHub\GirilenSayininAsalligi\AsalKontrol\AsalKontrol\bin\Debug\AsalKontrol.exe
+C:\Users\Windows10\Documents\GitHub\GirilenSayininAsalligi\AsalKontrol\AsalKontrol\bin\Debug\AsalKontrol.pdb
+C:\Users\Windows10\Documents\GitHub\GirilenSayininAsalligi\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\GirilenSayininAsalligi\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.exe
+C:\Users\Windows10\Documents\GitHub\GirilenSayininAsalligi\AsalKontrol\AsalKontrol\obj\Debug\AsalKontrol.pdb
